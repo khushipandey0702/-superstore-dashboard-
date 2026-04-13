@@ -22,7 +22,7 @@ I have been learning Power BI for a while now and I wanted to work on something 
 - **Profit Analysis** — Which products and categories are actually making money
 - **Product Performance** — Breakdown of profit across Furniture, Office Supplies and Technology
 - **Regional Performance** — Which states in the US are doing well and which ones are not
-- **Customer Segments** — Who is buying the most — Consumers, Corporate or Home Office
+- **Customer Segments** — Who is buying the most  Consumers, Corporate or Home Office
 - **Return Rate** — How many orders are being returned and is it improving
 - **Monthly Trends** — How sales have moved month by month over the years
 
