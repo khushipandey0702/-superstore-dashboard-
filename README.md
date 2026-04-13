@@ -9,7 +9,6 @@ Hey! This is one of my first Power BI projects and I am really happy with how it
 The idea was simple  take raw sales data and turn it into something that actually makes sense visually and helps answer real business questions.
 
 
-
 ## Why I Built This
 
 I have been learning Power BI for a while now and I wanted to work on something that felt like a real project rather than just following tutorials. So I picked this dataset, explored it myself and tried to build a dashboard that tells a proper story.
